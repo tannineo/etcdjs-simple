@@ -1,0 +1,13 @@
+{
+  "name": "etcdjs-simple",
+  "version": "0.0.1",
+  "description": "A client to perform simple actions with etcd3 through HTTP gateway",
+  "author": "tannineo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.3.4",
+    "tslint": "^5.10.0",
+    "tslint-microsoft-contrib": "^5.0.3",
+    "typescript": "^2.9.2"
+  }
+}
